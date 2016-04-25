@@ -7,7 +7,7 @@
 * This program deletes ArchiveLink entries from tables like TOA01 based
 * on the selection screen criteria. Plus it can remove the document from
 * the repository. For more details go to:
-*     https://github.com/infospire/xxxx
+*     https://github.com/InfoSpire/ArchiveLink-Utilities
 * Note: Don't run this program in a productive SAP system. Perform SAP
 * data archiving for these entries instead: Archiving Object ARCHIVELNK.
 * See SAP Note 1900309 - HowTo: Archiving ArchiveLink connection entries
