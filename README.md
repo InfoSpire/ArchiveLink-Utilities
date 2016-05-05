@@ -11,7 +11,7 @@ We here at InfoSpire&#8482; have found that some tasks require more than what th
     <th>Purpose</th> 
   </tr>
   <tr>
-    <td><a href="https://github.com/InfoSpire/ArchiveLink-Utilities/wiki/AlinkChangeOAC3">AlinkChangeOAC3</a></td>
+    <td><a href="https://github.com/InfoSpire/ArchiveLink-Utilities/tree/master/AlinkChangeOAC3">AlinkChangeOAC3</a></td>
     <td>Used to mass modify TCode OAC3 Records.</td> 
   </tr>
   <tr>
