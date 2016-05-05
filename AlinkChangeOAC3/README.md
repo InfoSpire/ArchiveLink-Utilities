@@ -23,13 +23,7 @@ At a minimum the installation of the _**Core**_ components listed below is requi
 ### Optional (Z-TCode) ###
 1. Execute TC _**SE80**_.
 2. Find or Create a package "_**ZBC_ALINKUTILS**_".
-3. Create a new transaction code with the name "_**ZBC_OAC3**_".
-<table>
-  <tr>
-    <th>Step</th>
-    <th>Screenshot</th>
-  </tr>
-</table>
+3. Create a new transaction code with the name "_**ZBC_OAC3**_" and assign the program _**ZBC_ALINK_CHANGE_OAC3**_ as the target.
 
 ## Usage ##
 There are two modes in which the utility can be executed _**Test**_ and _**Update**_.
@@ -111,5 +105,5 @@ There are two modes in which the utility can be executed _**Test**_ and _**Updat
 ## Additional ##
 
 ## License ##
-The Apache License v2.0 is used for all development objects.
+The Apache License v2.0 is used for all development objects.<br>
 [Apache License](../blob/master/AlinkChangeOAC3/LICENSE)
