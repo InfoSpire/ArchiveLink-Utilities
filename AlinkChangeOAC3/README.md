@@ -63,11 +63,11 @@ There are two modes in which the utility can be executed _**Test**_ and _**Updat
 		</ol>
 		<img src="https://github.com/InfoSpire/ArchiveLink-Utilities/blob/master/Wiki_Resources/SAPUI/sapui_execute_icon_whitebg.png" alt="Execute"> Execute
 	</td>
-    <td><img src="https://github.com/InfoSpire/ArchiveLink-Utilities/blob/master/Wiki_Resources/AlinkChangeOAC3/images/Test_Selection_Screen1.png" alt="Screen 1"></td>
+    <td><img src="https://github.com/InfoSpire/ArchiveLink-Utilities/blob/master/Wiki_Resources/AlinkChangeOAC3/images/Test_Selection_Screen1.png" width=300px alt="Screen 1"></td>
   </tr>
   <tr>
     <td>Result:</td>
-    <td><img src="https://github.com/InfoSpire/ArchiveLink-Utilities/blob/master/Wiki_Resources/AlinkChangeOAC3/images/Test_Selection_Screen2.png" alt="Screen 2"></td>
+    <td><img src="https://github.com/InfoSpire/ArchiveLink-Utilities/blob/master/Wiki_Resources/AlinkChangeOAC3/images/Test_Selection_Screen2.png" width=300px alt="Screen 2"></td>
   </tr>
 </table>
 + Update Entries
