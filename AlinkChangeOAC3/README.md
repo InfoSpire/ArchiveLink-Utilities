@@ -60,6 +60,7 @@ There are two modes in which the utility can be executed _**Test**_ and _**Updat
 					<li>_**Test Selection**_</li>
 				</ul>
 			</li>
+			<li><img src="https://github.com/InfoSpire/ArchiveLink-Utilities/blob/master/Wiki_Resources/AlinkChangeOAC3/images/sapui_map_001_whitebg.png" alt="Execute"> Execute</li>
 		</ol>
 	</td>
     <td><img src="https://github.com/InfoSpire/ArchiveLink-Utilities/blob/master/Wiki_Resources/AlinkChangeOAC3/images/Test_Selection_Screen1.png" alt="Screen 1" width=200 height=200></td>
@@ -96,6 +97,7 @@ There are two modes in which the utility can be executed _**Test**_ and _**Updat
 					<li>_**Update Entries**_</li>
 				</ul>
 			</li>
+			<li><img src="https://github.com/InfoSpire/ArchiveLink-Utilities/blob/master/Wiki_Resources/AlinkChangeOAC3/images/sapui_map_001_whitebg.png" alt="Execute"> Execute</li>
 		</ol>
 	</td>
     <td><img src="https://github.com/InfoSpire/ArchiveLink-Utilities/blob/master/Wiki_Resources/AlinkChangeOAC3/images/Update_Selection_Screen1.png" alt="Screen 1"></td>
