@@ -60,8 +60,8 @@ There are two modes in which the utility can be executed _**Test**_ and _**Updat
 					<li>_**Test Selection**_</li>
 				</ul>
 			</li>
-			<li><img src="https://github.com/InfoSpire/ArchiveLink-Utilities/blob/master/Wiki_Resources/SAPUI/sapui_execute_icon_whitebg.png" alt="Execute"> Execute</li>
 		</ol>
+		<img src="https://github.com/InfoSpire/ArchiveLink-Utilities/blob/master/Wiki_Resources/SAPUI/sapui_execute_icon_whitebg.png" alt="Execute"> Execute
 	</td>
     <td><img src="https://github.com/InfoSpire/ArchiveLink-Utilities/blob/master/Wiki_Resources/AlinkChangeOAC3/images/Test_Selection_Screen1.png" alt="Screen 1"></td>
   </tr>
@@ -97,8 +97,8 @@ There are two modes in which the utility can be executed _**Test**_ and _**Updat
 					<li>_**Update Entries**_</li>
 				</ul>
 			</li>
-			<li><img src="https://github.com/InfoSpire/ArchiveLink-Utilities/blob/master/Wiki_Resources/SAPUI/sapui_execute_icon_whitebg.png" alt="Execute"> Execute</li>
 		</ol>
+		<img src="https://github.com/InfoSpire/ArchiveLink-Utilities/blob/master/Wiki_Resources/SAPUI/sapui_execute_icon_whitebg.png" alt="Execute"> Execute
 	</td>
     <td><img src="https://github.com/InfoSpire/ArchiveLink-Utilities/blob/master/Wiki_Resources/AlinkChangeOAC3/images/Update_Selection_Screen1.png" alt="Screen 1"></td>
   </tr>
