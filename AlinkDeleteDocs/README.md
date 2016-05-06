@@ -1,4 +1,4 @@
-# Mass Removal of Links and/or Content
+# Mass Removal of Links or Links and Content
 
 ## Requirements
 + Netweaver ABAP Stack &ge; 4.6D
@@ -17,7 +17,7 @@ At a minimum the installation of the _**Core**_ components listed below is requi
 1. Execute TC _**SE80**_.
 2. Find or Create a package "_**ZBC_ALINKUTILS**_".
 3. Create a new program with the name "_**ZBC_ALINK_DELETE_DOCS**_" in package "_**ZBC_ALINKUTILS**_".
-4. Copy the contents of the file ["_**zbc_alink_delete_docs.abap**_"](https://github.com/InfoSpire/ArchiveLink-Utilities/blob/master/AlinkDeleteDocs/ZBC_ALINK_DELETE_DOCS.abap) to the newly created program.
+4. Copy the contents of the file ["_**zbc_alink_delete_docs.abap**_"](../blob/master/AlinkDeleteDocs/ZBC_ALINK_DELETE_DOCS.abap) to the newly created program.
 5. Save and Activate the program.
 
 ### Optional (Z-TCode)
@@ -55,13 +55,13 @@ There are two modes in which the utility can be executed _**Test**_ and _**Updat
 				</ul>
 			</li>
 		</ol>
-		<img src="https://github.com/InfoSpire/ArchiveLink-Utilities/blob/master/Wiki_Resources/SAPUI/sapui_execute_icon_whitebg.png" alt="Execute"> Execute
+		<img src="../blob/master/Wiki_Resources/SAPUI/sapui_execute_icon_whitebg.png" alt="Execute"> Execute
 	</td>
-    <td><img src="https://github.com/InfoSpire/ArchiveLink-Utilities/blob/master/Wiki_Resources/AlinkChangeOAC3/images/Test_Selection_Screen1.png" width=550px alt="Screen 1"></td>
+    <td><img src="../blob/master/Wiki_Resources/AlinkChangeOAC3/images/Test_Selection_Screen1.png" width=550px alt="Screen 1"></td>
   </tr>
   <tr>
     <td>Result:</td>
-    <td><img src="https://github.com/InfoSpire/ArchiveLink-Utilities/blob/master/Wiki_Resources/AlinkChangeOAC3/images/Test_Selection_Screen2.png" width=550px alt="Screen 2"></td>
+    <td><img src="../blob/master/Wiki_Resources/AlinkChangeOAC3/images/Test_Selection_Screen2.png" width=550px alt="Screen 2"></td>
   </tr>
 </table>
 + Update Entries
@@ -92,13 +92,13 @@ There are two modes in which the utility can be executed _**Test**_ and _**Updat
 				</ul>
 			</li>
 		</ol>
-		<img src="https://github.com/InfoSpire/ArchiveLink-Utilities/blob/master/Wiki_Resources/SAPUI/sapui_execute_icon_whitebg.png" alt="Execute"> Execute
+		<img src="../blob/master/Wiki_Resources/SAPUI/sapui_execute_icon_whitebg.png" alt="Execute"> Execute
 	</td>
-    <td><img src="https://github.com/InfoSpire/ArchiveLink-Utilities/blob/master/Wiki_Resources/AlinkChangeOAC3/images/Update_Selection_Screen1.png" width=550px alt="Screen 1"></td>
+    <td><img src="../blob/master/Wiki_Resources/AlinkChangeOAC3/images/Update_Selection_Screen1.png" width=550px alt="Screen 1"></td>
   </tr>
   <tr>
     <td>Result:</td>
-    <td><img src="https://github.com/InfoSpire/ArchiveLink-Utilities/blob/master/Wiki_Resources/AlinkChangeOAC3/images/Update_Selection_Screen2.png" width=550px alt="Screen 2"></td>
+    <td><img src="../blob/master/Wiki_Resources/AlinkChangeOAC3/images/Update_Selection_Screen2.png" width=550px alt="Screen 2"></td>
   </tr>
 </table>
 
