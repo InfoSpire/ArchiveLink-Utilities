@@ -55,7 +55,7 @@ There are two modes in which the utility can be executed _**Test**_ and _**Updat
 				</ul>
 			</li>
 		</ol>
-		<img src="(../Wiki_Resources/SAPUI/sapui_execute_icon_whitebg.png)" alt="Execute"> Execute
+		<img src="../Wiki_Resources/SAPUI/sapui_execute_icon_whitebg.png" alt="Execute"> Execute
 	</td>
     <td><img src="../Wiki_Resources/AlinkChangeOAC3/images/Test_Selection_Screen1.png" width=550px alt="Screen 1"></td>
   </tr>
