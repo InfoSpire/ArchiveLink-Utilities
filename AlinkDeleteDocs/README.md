@@ -29,81 +29,83 @@ At a minimum the installation of the _**Core**_ components listed below is requi
 There are two modes in which the utility can be executed _**Test**_ and _**Update**_.
 + Test Selection
 <table>
-  <tr>
-    <th>Step</th>
-    <th>Screenshot</th>
-  </tr>
-  <tr>
-    <td>Add Criteria:
-		<ol>
-			<li>Selection
-				<ul>
-					<li>Object Type</li>
-					<li>Document Type</li>
-					<li>Link Status Archive</li>
-					<li>Cont. Rep. - Old</li>
-				</ul>
-			</li>
-			<li>Update
-				<ul>
-					<li>Cont. Rep. - New</li>
-				</ul>
-			</li>
-			<li>Run Mode
-				<ul>
-					<li>_**Test Selection**_</li>
-				</ul>
-			</li>
-		</ol>
-		<img src="../Wiki_Resources/SAPUI/sapui_execute_icon_whitebg.png" alt="Execute"> Execute
-	</td>
-    <td><img src="../Wiki_Resources/AlinkChangeOAC3/images/Test_Selection_Screen1.png" width=550px alt="Screen 1"></td>
-  </tr>
-  <tr>
-    <td>Result:</td>
-    <td><img src="../Wiki_Resources/AlinkChangeOAC3/images/Test_Selection_Screen2.png" width=550px alt="Screen 2"></td>
-  </tr>
+	<tr>
+		<th>Step</th>
+		<th>Screenshot</th>
+	</tr>
+	<tr>
+		<td>Add Criteria:
+			<ol>
+				<li>Selection
+					<ul>
+						<li>Object Type</li>
+						<li>Object ID</li>
+						<li>Document Type</li>
+						<li>Archive Date</li>
+						<li>Content Repository</li>
+						<li>Document ID</li>
+					</ul>
+				</li>
+				<li>Run Mode
+					<ul>
+						<li>Test Run</li>
+					</ul>
+				</li>
+			</ol>
+			<img src="../Wiki_Resources/SAPUI/sapui_execute_icon_whitebg.png" alt="Execute"> Execute
+		</td>
+		<td><img src="../Wiki_Resources/AlinkDeleteDocs/images/sapui_usage_test_ZBC_ALINK_DELETE_DOCS_001.png" width=550px alt="Screen 1"></td>
+	</tr>
+	<tr>
+		<td>Result:</td>
+		<td><img src="../Wiki_Resources/AlinkDeleteDocs/images/sapui_usage_test_ZBC_ALINK_DELETE_DOCS_002.png" width=550px alt="Screen 2"></td>
+	</tr>
 </table>
 + Update Entries
 <table>
-  <tr>
-    <th>Step</th>
-    <th>Screenshot</th>
-  </tr>
-  <tr>
-        <td>Add Criteria:
-		<ol>
-			<li>Selection
-				<ul>
-					<li>Object Type</li>
-					<li>Document Type</li>
-					<li>Link Status Archive</li>
-					<li>Cont. Rep. - Old</li>
-				</ul>
-			</li>
-			<li>Update
-				<ul>
-					<li>Cont. Rep. - New</li>
-				</ul>
-			</li>
-			<li>Run Mode
-				<ul>
-					<li>_**Update Entries**_</li>
-				</ul>
-			</li>
-		</ol>
-		<img src="../Wiki_Resources/SAPUI/sapui_execute_icon_whitebg.png" alt="Execute"> Execute
-	</td>
-    <td><img src="../Wiki_Resources/AlinkChangeOAC3/images/Update_Selection_Screen1.png" width=550px alt="Screen 1"></td>
-  </tr>
-  <tr>
-    <td>Result:</td>
-    <td><img src="../Wiki_Resources/AlinkChangeOAC3/images/Update_Selection_Screen2.png" width=550px alt="Screen 2"></td>
-  </tr>
+	<tr>
+		<th>Step</th>
+		<th>Screenshot</th>
+		</tr>
+	<tr>
+		<td>Add Criteria:
+			<ol>
+				<li>Selection
+					<ul>
+						<li>Object Type</li>
+						<li>Object ID</li>
+						<li>Document Type</li>
+						<li>Archive Date</li>
+						<li>Content Repository</li>
+						<li>Document ID</li>
+					</ul>
+				</li>
+				<li>Run Mode
+					<ul>
+						<li>Delete Links
+							<ul>
+								<li>Delete Links and Content</li>
+							</ul
+						</li>
+					</ul>
+				</li>
+			</ol>
+			<img src="../Wiki_Resources/SAPUI/sapui_execute_icon_whitebg.png" alt="Execute"> Execute
+		</td>
+		<td><img src="../Wiki_Resources/AlinkDeleteDocs/images/sapui_usage_delete_ZBC_ALINK_DELETE_DOCS_001.png" width=550px alt="Screen 1"></td>
+	</tr>
+	<tr>
+		<td>Confirm Delete:</td>
+		<td><img src="../Wiki_Resources/AlinkDeleteDocs/images/sapui_usage_delete_ZBC_ALINK_DELETE_DOCS_002.png" width=550px alt="Screen 2"></td>
+	</tr>
+	<tr>
+		<td>Result:</td>
+		<td><img src="../Wiki_Resources/AlinkDeleteDocs/images/sapui_usage_delete_ZBC_ALINK_DELETE_DOCS_002.png" width=550px alt="Screen 3"></td>
+	</tr>
 </table>
 
 ## Additional
 
 ## License
 The Apache License v2.0 is used for all development objects.<br>
-[Apache License](../blob/master/AlinkChangeOAC3/LICENSE)
+[Apache License](../blob/master/AlinkDeleteDocs/LICENSE)
