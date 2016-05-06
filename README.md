@@ -22,4 +22,4 @@ We here at InfoSpire&#8482; have found that some management tasks require more f
  
 ## License
 The Apache License v2.0 is used for all development objects.<br>
-[Apache License](../blob/master/LICENSE)
+[Apache License](../master/LICENSE)
