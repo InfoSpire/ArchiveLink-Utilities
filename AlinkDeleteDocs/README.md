@@ -1,7 +1,7 @@
 # Mass Removal of Links or Links and Content
 
 ## Requirements
-+ Netweaver ABAP Stack &ge; 4.6D
++ Netweaver ABAP Stack &ge; 7.0 (Note: not tested with lower releases, but may work.)
 + Developer Access and Authorization
 
 ## Description
