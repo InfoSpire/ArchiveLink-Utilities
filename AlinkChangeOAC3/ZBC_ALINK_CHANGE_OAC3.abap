@@ -30,7 +30,7 @@
 * limitations under the License.
 *-----------------------------------------------------------------------
 REPORT zbc_alink_change_oac3.
-
+TYPE-POOLS: ABAP, SLIS.
 
 ************************************************************
 * Data Declaration

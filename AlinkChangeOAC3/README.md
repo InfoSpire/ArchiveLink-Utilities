@@ -1,11 +1,11 @@
 # Mass Change of "_Links for Content Repositories_" #
 
 ## Requirements ##
-+ Netweaver ABAP Stack &ge; 7.0 (Note: not tested with lower releases, but may work.)
++ Netweaver&#174; ABAP&#174; Stack &ge; 7.0 (Note: not tested with lower releases, but may work.)
 + Developer Access and Authorization
 
 ## Description ##
-This utility allows ArchiveLink Administrators to perform a mass change of the configuration that is typically managed through Transaction Code (TC) _**OAC3**_.
+This utility allows SAP ArchiveLink&#174; Administrators to perform a mass change of the configuration that is typically managed through Transaction Code (TC) _**OAC3**_.
 
 ## Use Cases ##
 + A business or technical event has necessitated the change of the Content Repository ID for a large block of _**Linkages**_.
