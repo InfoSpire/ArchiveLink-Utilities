@@ -1,11 +1,11 @@
 # Mass Removal of Links or Links and Content
 
 ## Requirements
-+ Netweaver&#174 ABAP&#174 Stack &ge; 7.0 (Note: not tested with lower releases, but may work.)
++ Netweaver&#174; ABAP&#174; Stack &ge; 7.0 (Note: not tested with lower releases, but may work.)
 + Developer Access and Authorization
 
 ## Description
-This utility program deletes SAP ArchiveLink&#174 entries from the SAP ArchiveLink&#174 data tables(TOAXX) based on selection criteria. In addition to removing the records from the tables, it can also remove the content objects from the repository on which they are stored.
+This utility program deletes SAP ArchiveLink&#174; entries from the SAP ArchiveLink&#174; data tables(TOAXX) based on selection criteria. In addition to removing the records from the tables, it can also remove the content objects from the repository on which they are stored.
 
 ## Use Cases
 + After a system refresh (through a system restore) of a production system to a lower environment, it is recommended that data be cleansed in order to remove risk of inappropriate access to productive data and/or removal of erroneous data.
