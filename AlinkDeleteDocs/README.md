@@ -146,7 +146,7 @@ There are two modes in which the utility can be executed _**Test**_ and _**Updat
 	<tr>
 		<td>01</td>
 		<td>This program should not be used in a productive SAP system.
-			Data Archiving for the ArchiveLink entries should be used according to SAP Note 1900309 - HowTo: Archiving ArchiveLink connection entries. See also SAP Help https://help.sap.com/saphelp_erp60_sp/helpdata/en/b0/8a5a56eb0811d195580000e82deb58/content.htm(https://help.sap.com/saphelp_erp60_sp/helpdata/en/b0/8a5a56eb0811d195580000e82deb58/content.htm)</td>
+			Data Archiving for the ArchiveLink entries should be used according to SAP Note 1900309 - HowTo: Archiving ArchiveLink connection entries. See also SAP Help https://help.sap.com/saphelp_erp60_sp/helpdata/en/b0/8a5a56eb0811d195580000e82deb58/content.htm</td>
 	</tr>
 	<tr>
 		<td>02</td>
