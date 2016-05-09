@@ -138,6 +138,23 @@ There are two modes in which the utility can be executed _**Test**_ and _**Updat
 </table>
 
 ## Additional
+<table>
+	<tr>
+		<th>Notes</th>
+		<th>Details</th>
+	</tr>
+	<tr>
+		<td>01</td>
+		<td>This program should not be used in a productive SAP system.
+			Data Archiving for the ArchiveLink entries should be used according to SAP Note 1900309 - HowTo: Archiving ArchiveLink connection entries. See also SAP Help [https://help.sap.com/saphelp_erp60_sp/helpdata/en/b0/8a5a56eb0811d195580000e82deb58/content.htm](https://help.sap.com/saphelp_erp60_sp/helpdata/en/b0/8a5a56eb0811d195580000e82deb58/content.htm])</td>
+	</tr>
+	<tr>
+		<td>02</td>
+		<td>If enhanced ArchiveLink file attributes (table TOAAT) are used (SAP Note 1451769 : Enhancement in Archivelink file attributes in GOS scenario) then it is recommended to apply SAP Note “2166788 - Additional file attributes get deleted when deleting an attachment in archivelink even if more than one link entries are present for the same physical document”.</td>
+	</tr>
+</table>
+
+
 
 ## License
 The Apache License v2.0 is used for all development objects.<br>
