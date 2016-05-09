@@ -27,7 +27,7 @@
 * limitations under the License.
 *-----------------------------------------------------------------------
 REPORT zbc_alink_delete_docs.
-
+TYPE-POOLS: ABAP, SLIS.
 
 ************************************************************
 * Data Declaration
