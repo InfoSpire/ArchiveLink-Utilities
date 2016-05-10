@@ -25,7 +25,7 @@ At a minimum the installation of the _**Core**_ components listed below is requi
 <table>
 	<tr>
 		<td>Find or Create:</td>
-		<td><img src="../Wiki_Resources/General/images/sapui_dev_find_package.png" width=550px alt="Screen 1"></td>
+		<td><img src="../Wiki_Resources/General/images/sapui_dev_find_package.png" alt="Screen 1"></td>
 	</tr>
 	<tr>
 		<td>Create Step 1:</td>
