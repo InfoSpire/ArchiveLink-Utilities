@@ -36,8 +36,22 @@ At a minimum the installation of the _**Core**_ components listed below is requi
 	</tr>
 </table>
 3. Create a new program with the name "_**ZBC_ALINK_CHANGE_OAC3**_" in package "_**ZBC_ALINKUTILS**_".
+<table>
+	<tr>
+		<th>Step</th>
+		<th>Screenshot</th>
+	</tr>
+	<tr>
+		<td>1</td>
+		<td><img src="../Wiki_Resources/AlinkChangeOAC3/images/sapui_dev_create_program_ZBC_ALINK_CHANGE_OAC3_001.png" width=550px alt="Screen 1"></td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td><img src="../Wiki_Resources/AlinkChangeOAC3/images/sapui_dev_create_program_ZBC_ALINK_CHANGE_OAC3_002.png" width=550px alt="Screen 1"></td>
+	</tr>
+</table>
 4. Copy the contents of the file ["_**zbc_alink_change_oac3.abap**_"](../AlinkChangeOAC3/ZBC_ALINK_CHANGE_OAC3.abap) to the newly created program.
-5. Save and Activate the program.
+5. ![alt text](../Wiki_Resources/SAPUI/sapui_save_icon_whitebg.png "Save") Save and ![alt text](../Wiki_Resources/SAPUI/sapui_activate_icon_whitebg.png "Activate") Activate the program. 
 
 ### Optional (Z-TCode)
 1. Execute TC _**SE80**_.
