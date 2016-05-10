@@ -9,7 +9,7 @@ This utility program deletes SAP ArchiveLink&#174; entries from the SAP ArchiveL
 ## Requirements
 + Netweaver&#174; ABAP&#174; Stack &ge; 7.0 (Note: not tested with lower releases, but may work.)
 + Developer Access and Authorization
-+ Special Notes -[Notes](#h_add)
++ [Important Notes] (#h_add)
 
 ## Installation
 At a minimum the installation of the _**Core**_ components listed below is required. If desired, an optional installation step can be taken in order to create a custom transaction code to allow the utility to be called directly.
