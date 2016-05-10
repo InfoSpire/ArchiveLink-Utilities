@@ -1,19 +1,19 @@
-# Mass Change of "_Links for Content Repositories_" #
+# Mass Change of "_Links for Content Repositories_"
 
-## Requirements ##
+## Description
+This utility allows SAP ArchiveLink&#174; Administrators to perform a mass change of the configuration that is typically managed through Transaction Code (TC) _**OAC3**_.
+
+## Use Cases
++ A business or technical event has necessitated the change of the Content Repository ID for a large block of _**Linkages**_.
+
+## Requirements
 + Netweaver&#174; ABAP&#174; Stack &ge; 7.0 (Note: not tested with lower releases, but may work.)
 + Developer Access and Authorization
 
-## Description ##
-This utility allows SAP ArchiveLink&#174; Administrators to perform a mass change of the configuration that is typically managed through Transaction Code (TC) _**OAC3**_.
-
-## Use Cases ##
-+ A business or technical event has necessitated the change of the Content Repository ID for a large block of _**Linkages**_.
-
-## Installation ##
+## Installation
 At a minimum the installation of the _**Core**_ components listed below is required. If desired, an optional installation step can be taken in order to create a custom transaction code to allow the utility to be called directly.
 
-### Core ###
+### Core
 1. Execute TC _**SE80**_.
 <table>
 	<tr>
@@ -36,15 +36,15 @@ At a minimum the installation of the _**Core**_ components listed below is requi
 	</tr>
 </table>
 3. Create a new program with the name "_**ZBC_ALINK_CHANGE_OAC3**_" in package "_**ZBC_ALINKUTILS**_".
-4. Copy the contents of the file ["_**zbc_alink_change_oac3.abap**_"](https://github.com/InfoSpire/ArchiveLink-Utilities/blob/master/AlinkChangeOAC3/ZBC_ALINK_CHANGE_OAC3.abap) to the newly created program.
+4. Copy the contents of the file ["_**zbc_alink_change_oac3.abap**_"](../AlinkChangeOAC3/ZBC_ALINK_CHANGE_OAC3.abap) to the newly created program.
 5. Save and Activate the program.
 
-### Optional (Z-TCode) ###
+### Optional (Z-TCode)
 1. Execute TC _**SE80**_.
 2. Find or Create a package "_**ZBC_ALINKUTILS**_".
 3. Create a new transaction code with the name "_**ZBC_OAC3**_" and assign the program _**ZBC_ALINK_CHANGE_OAC3**_ as the target.
 
-## Usage ##
+## Usage
 There are two modes in which the utility can be executed _**Test**_ and _**Update**_.
 + Test Selection
 <table>
@@ -74,13 +74,13 @@ There are two modes in which the utility can be executed _**Test**_ and _**Updat
 				</ul>
 			</li>
 		</ol>
-		<img src="https://github.com/InfoSpire/ArchiveLink-Utilities/blob/master/Wiki_Resources/SAPUI/sapui_execute_icon_whitebg.png" alt="Execute"> Execute
+		<img src="../Wiki_Resources/SAPUI/sapui_execute_icon_whitebg.png" alt="Execute"> Execute
 	</td>
-    <td><img src="https://github.com/InfoSpire/ArchiveLink-Utilities/blob/master/Wiki_Resources/AlinkChangeOAC3/images/Test_Selection_Screen1.png" width=550px alt="Screen 1"></td>
+    <td><img src="../Wiki_Resources/AlinkChangeOAC3/images/Test_Selection_Screen1.png" width=550px alt="Screen 1"></td>
   </tr>
   <tr>
     <td>Result:</td>
-    <td><img src="https://github.com/InfoSpire/ArchiveLink-Utilities/blob/master/Wiki_Resources/AlinkChangeOAC3/images/Test_Selection_Screen2.png" width=550px alt="Screen 2"></td>
+    <td><img src="../Wiki_Resources/AlinkChangeOAC3/images/Test_Selection_Screen2.png" width=550px alt="Screen 2"></td>
   </tr>
 </table>
 + Update Entries
@@ -111,18 +111,18 @@ There are two modes in which the utility can be executed _**Test**_ and _**Updat
 				</ul>
 			</li>
 		</ol>
-		<img src="https://github.com/InfoSpire/ArchiveLink-Utilities/blob/master/Wiki_Resources/SAPUI/sapui_execute_icon_whitebg.png" alt="Execute"> Execute
+		<img src="../Wiki_Resources/SAPUI/sapui_execute_icon_whitebg.png" alt="Execute"> Execute
 	</td>
-    <td><img src="https://github.com/InfoSpire/ArchiveLink-Utilities/blob/master/Wiki_Resources/AlinkChangeOAC3/images/Update_Selection_Screen1.png" width=550px alt="Screen 1"></td>
+    <td><img src="../Wiki_Resources/AlinkChangeOAC3/images/Update_Selection_Screen1.png" width=550px alt="Screen 1"></td>
   </tr>
   <tr>
     <td>Result:</td>
-    <td><img src="https://github.com/InfoSpire/ArchiveLink-Utilities/blob/master/Wiki_Resources/AlinkChangeOAC3/images/Update_Selection_Screen2.png" width=550px alt="Screen 2"></td>
+    <td><img src="../Wiki_Resources/AlinkChangeOAC3/images/Update_Selection_Screen2.png" width=550px alt="Screen 2"></td>
   </tr>
 </table>
 
-## Additional ##
+## Additional
 
-## License ##
+## License
 The Apache License v2.0 is used for all development objects.<br>
 [Apache License](../blob/master/AlinkChangeOAC3/LICENSE)
