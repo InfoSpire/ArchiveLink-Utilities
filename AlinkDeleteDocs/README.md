@@ -52,7 +52,7 @@ At a minimum the installation of the _**Core**_ components listed below is requi
 	</tr>
 </table>
 4. Copy the contents of the file ["_**zbc_alink_delete_docs.abap**_"](../blob/master/AlinkDeleteDocs/ZBC_ALINK_DELETE_DOCS.abap) to the newly created program.
-5. Save and Activate the program.
+5. ![alt text](../Wiki_Resources/SAPUI/sapui_save_icon_whitebg.png "Save") Save and ![alt text](../Wiki_Resources/SAPUI/sapui_activate_icon_whitebg.png "Activate") Activate the program.
 
 ### Optional (Z-TCode)
 1. Execute TC _**SE80**_.
