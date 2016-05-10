@@ -17,14 +17,14 @@ At a minimum the installation of the _**Core**_ components listed below is requi
 1. Execute TC _**SE80**_.
 <table>
 	<tr>
-		<td><img src="../Wiki_Resources/General/images/sapui_exec_tc_SE80.png" width=550px alt="Screen 1"></td>
+		<td><img src="../Wiki_Resources/General/images/sapui_exec_tc_SE80.png" alt="Screen 1"></td>
 	</tr>
 </table>
 2. Find or Create a package "_**ZBC_ALINKUTILS**_".
 <table>
 	<tr>
 		<td>Find or Create:</td>
-		<td><img src="../Wiki_Resources/General/images/sapui_dev_find_package.png" width=550px alt="Screen 1"></td>
+		<td><img src="../Wiki_Resources/General/images/sapui_dev_find_package.png" alt="Screen 1"></td>
 	</tr>
 	<tr>
 		<td>Create Step 1:</td>
