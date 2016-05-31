@@ -4,8 +4,8 @@
 * Author : Eric Knabke, InfoSpire LLC (www.infospire.net)
 *-----------------------------------------------------------------------
 * Description:
-* 	This program allows ArchiveLink Administrators to perform a mass
-* 	change of the configuration that is managed through TCode OAC3.
+*   This program allows ArchiveLink Administrators to perform a mass
+*   change of the configuration that is managed through TCode OAC3.
 *
 * Note:
 *	An authorization check for the authorization object 'S_WFAR_OBJ' is
@@ -30,11 +30,26 @@
 * limitations under the License.
 *-----------------------------------------------------------------------
 REPORT zbc_alink_change_oac3.
-TYPE-POOLS: ABAP, SLIS.
+
+************************************************************
+* Text Elements
+************************************************************
+* Selection Texts (use Dictionary Ref. for the others):
+*P_AIDNEW	Cont. Rep. - New
+*P_AIDOLD	Cont. Rep. - Old
+*P_TEST	  Test Selection
+*P_UPD    Update Entries
+* Text Symbols:
+*S01  Selection
+*S02  Update
+*S03  Run Mode
+
 
 ************************************************************
 * Data Declaration
 ************************************************************
+TYPE-POOLS: ABAP, SLIS.
+
 CONSTANTS: zalv_red_int(4)      TYPE c VALUE 'C610'.
 
 TYPES: BEGIN OF ts_update,
