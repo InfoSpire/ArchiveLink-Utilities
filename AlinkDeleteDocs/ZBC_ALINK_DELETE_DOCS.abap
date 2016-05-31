@@ -27,11 +27,24 @@
 * limitations under the License.
 *-----------------------------------------------------------------------
 REPORT zbc_alink_delete_docs.
-TYPE-POOLS: ABAP, SLIS.
+
+************************************************************
+* Text Elements
+************************************************************
+* Selection Texts (use Dictionary Ref. for the others):
+*P_DEL    Delete Entries
+*P_DELREP	Delete Docs in Repository
+*P_TEST	  Test Selection
+* Text Symbols:
+*S01  Selection
+*S02  Run Mode
+
 
 ************************************************************
 * Data Declaration
 ************************************************************
+TYPE-POOLS: abap, slis.
+
 CONSTANTS: zalv_yellow_int(4)   TYPE c VALUE 'C310',
            zalv_red_int(4)      TYPE c VALUE 'C610'.
 
@@ -111,7 +124,7 @@ START-OF-SELECTION.
 *&---------------------------------------------------------------------*
 *&      Form  CHECKS
 *&---------------------------------------------------------------------*
-*       text
+*       Checks before deletion gets executed
 *----------------------------------------------------------------------*
 FORM checks CHANGING ev_exit TYPE abap_bool.
 
@@ -443,7 +456,7 @@ FORM top-of-page.
   WRITE lv_warn    TO lv_warn_chr LEFT-JUSTIFIED.
   WRITE lv_error   TO lv_error_chr LEFT-JUSTIFIED.
 
-* Total entries
+* Run Mode
   CLEAR: ls_header.
   ls_header-typ  = 'S'.
   ls_header-key = 'Run Mode'.
