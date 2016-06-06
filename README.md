@@ -11,15 +11,15 @@ We here at InfoSpire&#8482; have found that some management tasks require more f
     <th>Purpose</th> 
   </tr>
   <tr>
-    <td><a href="https://github.com/InfoSpire/ArchiveLink-Utilities/tree/master/AlinkChangeOAC3">AlinkChangeOAC3</a></td>
+    <td><a href="AlinkChangeOAC3">AlinkChangeOAC3</a></td>
     <td>Used to mass modify TCode OAC3 Records.</td> 
   </tr>
   <tr>
-    <td><a href="https://github.com/InfoSpire/ArchiveLink-Utilities/tree/master/AlinkDeleteDocs">AlinkDeleteDocs</a></td>
+    <td><a href="AlinkDeleteDocs">AlinkDeleteDocs</a></td>
     <td>Used to delete/cleanup ArchiveLink tables entries.</td> 
   </tr>
 </table>
  
 ## License
 The Apache License v2.0 is used for all development objects.<br>
-[Apache License](../master/LICENSE)
+[Apache License](LICENSE)
