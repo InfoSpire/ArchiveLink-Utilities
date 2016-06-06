@@ -51,7 +51,7 @@ At a minimum the installation of the _**Core**_ components listed below is requi
 		<td><img src="../Wiki_Resources/AlinkDeleteDocs/images/sapui_dev_create_program_ZBC_ALINK_DELETE_DOCS_002.png?raw=true" alt="Screen 1"></td>
 	</tr>
 </table>
-4. Copy the contents of the file ["_**zbc_alink_delete_docs.abap**_"](../AlinkDeleteDocs/ZBC_ALINK_DELETE_DOCS.abap) to the newly created program.
+4. Copy the contents of the file ["_**ZBC_ALINK_DELETE_DOCS.abap**_"](ZBC_ALINK_DELETE_DOCS.abap) to the newly created program.
 5. ![alt text](../Wiki_Resources/SAPUI/sapui_save_icon_whitebg.png "Save") Save and ![alt text](../Wiki_Resources/SAPUI/sapui_activate_icon_whitebg.png "Activate") Activate the program.
 
 ### Optional (Z-TCode)
@@ -159,4 +159,4 @@ There are two modes in which the utility can be executed _**Test**_ and _**Delet
 
 ## License
 The Apache License v2.0 is used for all development objects.<br>
-[Apache License](../AlinkDeleteDocs/LICENSE)
+[Apache License](LICENSE)
