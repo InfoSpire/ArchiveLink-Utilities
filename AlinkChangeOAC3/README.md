@@ -24,15 +24,15 @@ At a minimum the installation of the _**Core**_ components listed below is requi
 <table>
 	<tr>
 		<td>Find or Create:</td>
-		<td><img src="../Wiki_Resources/General/images/sapui_dev_find_package.png" alt="Screen 1"></td>
+		<td><img src="../Wiki_Resources/General/images/sapui_dev_find_package.png?raw=true" alt="Screen 1"></td>
 	</tr>
 	<tr>
 		<td>Create Step 1:</td>
-		<td><img src="../Wiki_Resources/General/images/sapui_dev_create_package_001.png" width=550px alt="Screen 1"></td>
+		<td><img src="../Wiki_Resources/General/images/sapui_dev_create_package_001.png?raw=true" alt="Screen 1"></td>
 	</tr>
 	<tr>
 		<td>Create Step 2:</td>
-		<td><img src="../Wiki_Resources/General/images/sapui_dev_create_package_002.png" width=550px alt="Screen 1"></td>
+		<td><img src="../Wiki_Resources/General/images/sapui_dev_create_package_002.png?raw=true" alt="Screen 1"></td>
 	</tr>
 </table>
 3. Create a new program with the name "_**ZBC_ALINK_CHANGE_OAC3**_" in package "_**ZBC_ALINKUTILS**_".
@@ -43,14 +43,14 @@ At a minimum the installation of the _**Core**_ components listed below is requi
 	</tr>
 	<tr>
 		<td>1</td>
-		<td><img src="../Wiki_Resources/AlinkChangeOAC3/images/sapui_dev_create_program_ZBC_ALINK_CHANGE_OAC3_001.png" width=550px alt="Screen 1"></td>
+		<td><img src="../Wiki_Resources/AlinkChangeOAC3/images/sapui_dev_create_program_ZBC_ALINK_CHANGE_OAC3_001.png?raw=true"  alt="Screen 1"></td>
 	</tr>
 	<tr>
 		<td>2</td>
-		<td><img src="../Wiki_Resources/AlinkChangeOAC3/images/sapui_dev_create_program_ZBC_ALINK_CHANGE_OAC3_002.png" width=550px alt="Screen 1"></td>
+		<td><img src="../Wiki_Resources/AlinkChangeOAC3/images/sapui_dev_create_program_ZBC_ALINK_CHANGE_OAC3_002.png?raw=true" alt="Screen 1"></td>
 	</tr>
 </table>
-4. Copy the contents of the file ["_**zbc_alink_change_oac3.abap**_"](../AlinkChangeOAC3/ZBC_ALINK_CHANGE_OAC3.abap) to the newly created program.
+4. Copy the contents of the file ["_**ZBC_ALINK_CHANGE_OAC3.abap**_"](ZBC_ALINK_CHANGE_OAC3.abap) to the newly created program.
 5. ![alt text](../Wiki_Resources/SAPUI/sapui_save_icon_whitebg.png "Save") Save and ![alt text](../Wiki_Resources/SAPUI/sapui_activate_icon_whitebg.png "Activate") Activate the program. 
 
 ### Optional (Z-TCode)
@@ -90,11 +90,11 @@ There are two modes in which the utility can be executed _**Test**_ and _**Updat
 		</ol>
 		<img src="../Wiki_Resources/SAPUI/sapui_execute_icon_whitebg.png" alt="Execute"> Execute
 	</td>
-    <td><img src="../Wiki_Resources/AlinkChangeOAC3/images/Test_Selection_Screen1.png" width=550px alt="Screen 1"></td>
+    <td><img src="../Wiki_Resources/AlinkChangeOAC3/images/Test_Selection_Screen1.png?raw=true" width=550px alt="Screen 1"></td>
   </tr>
   <tr>
     <td>Result:</td>
-    <td><img src="../Wiki_Resources/AlinkChangeOAC3/images/Test_Selection_Screen2.png" width=550px alt="Screen 2"></td>
+    <td><img src="../Wiki_Resources/AlinkChangeOAC3/images/Test_Selection_Screen2.png?raw=true" width=550px alt="Screen 2"></td>
   </tr>
 </table>
 + Update Entries
@@ -127,11 +127,11 @@ There are two modes in which the utility can be executed _**Test**_ and _**Updat
 		</ol>
 		<img src="../Wiki_Resources/SAPUI/sapui_execute_icon_whitebg.png" alt="Execute"> Execute
 	</td>
-    <td><img src="../Wiki_Resources/AlinkChangeOAC3/images/Update_Selection_Screen1.png" width=550px alt="Screen 1"></td>
+    <td><img src="../Wiki_Resources/AlinkChangeOAC3/images/Update_Selection_Screen1.png?raw=true" width=550px alt="Screen 1"></td>
   </tr>
   <tr>
     <td>Result:</td>
-    <td><img src="../Wiki_Resources/AlinkChangeOAC3/images/Update_Selection_Screen2.png" width=550px alt="Screen 2"></td>
+    <td><img src="../Wiki_Resources/AlinkChangeOAC3/images/Update_Selection_Screen2.png?raw=true" width=550px alt="Screen 2"></td>
   </tr>
 </table>
 
@@ -139,4 +139,4 @@ There are two modes in which the utility can be executed _**Test**_ and _**Updat
 
 ## License
 The Apache License v2.0 is used for all development objects.<br>
-[Apache License](../blob/master/AlinkChangeOAC3/LICENSE)
+[Apache License](LICENSE)
