@@ -29,7 +29,7 @@ At a minimum the installation of the _**Core**_ components listed below is requi
 	</tr>
 	<tr>
 		<td>Create Step 1:</td>
-		<td><img src="../Wiki_Resources/General/images/sapui_dev_create_package_001.png" width=550px alt="Screen 1"></td>
+		<td><img src="../../../raw/master/Wiki_Resources/General/images/sapui_dev_create_package_001.png" alt="Screen 1"></td>
 	</tr>
 	<tr>
 		<td>Create Step 2:</td>
@@ -44,7 +44,7 @@ At a minimum the installation of the _**Core**_ components listed below is requi
 	</tr>
 	<tr>
 		<td>1</td>
-		<td><img src="../Wiki_Resources/AlinkDeleteDocs/images/sapui_dev_create_program_ZBC_ALINK_DELETE_DOCS_001.png" width=550px alt="Screen 1"></td>
+		<td><img src="../Wiki_Resources/AlinkDeleteDocs/images/sapui_dev_create_program_ZBC_ALINK_DELETE_DOCS_001.png" alt="Screen 1"></td>
 	</tr>
 	<tr>
 		<td>2</td>
