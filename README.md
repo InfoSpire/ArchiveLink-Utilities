@@ -1,8 +1,8 @@
 # ArchiveLink-Utilities
-InfoSpire; is pleased to release a suite of general use utility programs for SAP ArchiveLink&#174;; which organizations can use to help make the management of their SAP ArhiveLink&#174; implementations more efficient.
+InfoSpire is pleased to release a suite of general use utility programs for SAP ArchiveLink&#174;; which organizations can use to help make the management of their SAP ArhiveLink&#174; implementations more efficient.
 
 ## Overview
-We here at InfoSpire; have found that some management tasks require more functionality than what the SAP ArchiveLink&#174; platform offers out of the box. The utilities released here allow end users to perform the corresponding activities more effectively when the utility's corresponding _**Use Case**_ comes up. Our hope is that these utilities will help users be more efficient at executing functions associated with managing an SAP ArchiveLink&#174; deployment.
+We here at InfoSpire have found that some management tasks require more functionality than what the SAP ArchiveLink&#174; platform offers out of the box. The utilities released here allow end users to perform the corresponding activities more effectively when the utility's corresponding _**Use Case**_ comes up. Our hope is that these utilities will help users be more efficient at executing functions associated with managing an SAP ArchiveLink&#174; deployment.
 
 ## Utility List
 <table>
